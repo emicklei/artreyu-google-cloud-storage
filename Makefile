@@ -8,3 +8,8 @@ build:
 dockerbuild:
 	docker build --no-cache=true --tag=artreyu-gcs-builder .
 	docker run --rm -e VERSION=$(GIT_COMMIT) -v $(TARGET):/target -t artreyu-gcs-builder
+	
+	
+demo:
+	artreyu archive -r gcs main.go
+	artreyu fetch -r gcs main.go.txt

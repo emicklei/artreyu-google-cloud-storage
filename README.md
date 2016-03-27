@@ -1,4 +1,4 @@
-atreyu-gcs
+artreyu-google-cloud-storage
 ===
 plugin for artreyu
 
