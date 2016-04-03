@@ -3,6 +3,11 @@
 	"ignore": "test",
 	"package": [
 		{
+			"path": "github.com/emicklei/artreyu",
+			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
+			"revisionTime": "2016-04-03T15:20:55+02:00"
+		},
+		{
 			"path": "github.com/emicklei/artreyu/command",
 			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
 			"revisionTime": "2016-04-03T15:20:55+02:00"
