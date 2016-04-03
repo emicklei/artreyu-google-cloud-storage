@@ -3,24 +3,38 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "T3jPDhwiHer/6338TJmTEhMrDUk=",
+			"origin": "github.com/emicklei/artreyu-google-cloud-storage/vendor/github.com/emicklei/artreyu",
 			"path": "github.com/emicklei/artreyu",
 			"revision": "9dbfe7ad4638a4e1dcc0f0a814ceff35896f66a5",
-			"revisionTime": "2016-04-03T18:04:29+02:00"
+			"revisionTime": "2016-04-03T16:04:29Z"
 		},
 		{
+			"checksumSHA1": "Kvg0b7LT2yK2KjPvYKwvFmFS/FA=",
+			"origin": "github.com/emicklei/artreyu-google-cloud-storage/vendor/github.com/emicklei/artreyu/command",
 			"path": "github.com/emicklei/artreyu/command",
-			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
-			"revisionTime": "2016-04-03T15:20:55+02:00"
+			"revision": "9dbfe7ad4638a4e1dcc0f0a814ceff35896f66a5",
+			"revisionTime": "2016-04-03T16:04:29Z"
 		},
 		{
+			"checksumSHA1": "7cGlzgPgddouztpfsALKgK3n94E=",
+			"path": "github.com/emicklei/artreyu/local",
+			"revision": "9dbfe7ad4638a4e1dcc0f0a814ceff35896f66a5",
+			"revisionTime": "2016-04-03T16:04:29Z"
+		},
+		{
+			"checksumSHA1": "EAYW3rR2wmdrenQV5OsB874RaPw=",
+			"origin": "github.com/emicklei/artreyu-google-cloud-storage/vendor/github.com/emicklei/artreyu/model",
 			"path": "github.com/emicklei/artreyu/model",
-			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
-			"revisionTime": "2016-04-03T15:20:55+02:00"
+			"revision": "9dbfe7ad4638a4e1dcc0f0a814ceff35896f66a5",
+			"revisionTime": "2016-04-03T16:04:29Z"
 		},
 		{
+			"checksumSHA1": "rh5EowiaCJU5K+nA7yiNnUetXqA=",
+			"origin": "github.com/emicklei/artreyu-google-cloud-storage/vendor/github.com/emicklei/artreyu/transport",
 			"path": "github.com/emicklei/artreyu/transport",
-			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
-			"revisionTime": "2016-04-03T15:20:55+02:00"
+			"revision": "9dbfe7ad4638a4e1dcc0f0a814ceff35896f66a5",
+			"revisionTime": "2016-04-03T16:04:29Z"
 		},
 		{
 			"origin": "github.com/emicklei/artreyu/vendor/github.com/spf13/cobra",
@@ -105,5 +119,6 @@
 			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
 			"revisionTime": "2016-04-03T15:20:55+02:00"
 		}
-	]
+	],
+	"rootPath": "github.com/emicklei/artreyu-google-cloud-storage"
 }
