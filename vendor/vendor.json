@@ -1,0 +1,59 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/emicklei/artreyu/command",
+			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
+			"revisionTime": "2016-04-03T15:20:55+02:00"
+		},
+		{
+			"path": "github.com/emicklei/artreyu/model",
+			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
+			"revisionTime": "2016-04-03T15:20:55+02:00"
+		},
+		{
+			"path": "github.com/emicklei/artreyu/transport",
+			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
+			"revisionTime": "2016-04-03T15:20:55+02:00"
+		},
+		{
+			"origin": "github.com/emicklei/artreyu/vendor/github.com/spf13/cobra",
+			"path": "github.com/spf13/cobra",
+			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
+			"revisionTime": "2016-04-03T15:20:55+02:00"
+		},
+		{
+			"origin": "github.com/emicklei/artreyu/vendor/github.com/spf13/pflag",
+			"path": "github.com/spf13/pflag",
+			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
+			"revisionTime": "2016-04-03T15:20:55+02:00"
+		},
+		{
+			"path": "golang.org/x/net/context",
+			"revision": "6acef71eb69611914f7a30939ea9f6e194c78172",
+			"revisionTime": "2016-02-25T17:50:37Z"
+		},
+		{
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "6acef71eb69611914f7a30939ea9f6e194c78172",
+			"revisionTime": "2016-02-25T17:50:37Z"
+		},
+		{
+			"path": "golang.org/x/oauth2/google",
+			"revision": "2cd4472c321b6cba78e029d99f0e7fe51032fd21",
+			"revisionTime": "2016-02-22T14:00:05+11:00"
+		},
+		{
+			"path": "google.golang.org/api/storage/v1",
+			"revision": "e6294e63a06b2be522ff3d328d8cacded0b1bd31",
+			"revisionTime": "2016-02-19T16:41:36+11:00"
+		},
+		{
+			"origin": "github.com/emicklei/artreyu/vendor/gopkg.in/yaml.v2",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
+			"revisionTime": "2016-04-03T15:20:55+02:00"
+		}
+	]
+}
