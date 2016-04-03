@@ -4,8 +4,8 @@
 	"package": [
 		{
 			"path": "github.com/emicklei/artreyu",
-			"revision": "ebc6f0881229ecb1006645d7c981520ab09a3d37",
-			"revisionTime": "2016-04-03T15:20:55+02:00"
+			"revision": "9dbfe7ad4638a4e1dcc0f0a814ceff35896f66a5",
+			"revisionTime": "2016-04-03T18:04:29+02:00"
 		},
 		{
 			"path": "github.com/emicklei/artreyu/command",
